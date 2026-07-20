@@ -40,7 +40,7 @@ This repository is intended for:
 
 ## Module 1 — Cloud Concepts
 
-- [ ] 01 - Cloud Concepts
+- [x] 01 - Cloud Concepts ✅ 2026-07-20
 - [ ] 02 - Cloud Types
 - [ ] 03 - Consumption Models
 - [ ] 04 - Cloud Benefits
@@ -139,13 +139,13 @@ Each topic includes:
 
 # Study Progress
 
-| Module | Status |
-|---------|--------|
-| Cloud Concepts | ⏳ |
-| Azure Architecture | ⏳ |
-| Azure Services | ⏳ |
-| Management & Governance | ⏳ |
-| Final Review | ⏳ |
+| Module                  | Status       |
+| ----------------------- | ------------ |
+| Cloud Concepts          | ⏳In Progress |
+| Azure Architecture      | ⏳            |
+| Azure Services          | ⏳            |
+| Management & Governance | ⏳            |
+| Final Review            | ⏳            |
 
 ---
 
