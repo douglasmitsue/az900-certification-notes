@@ -174,13 +174,16 @@ After completing AZ-900, the study roadmap continues with:
 
 - AZ-104
 - AZ-305
-- AZ-700
-- AZ-800
 - AZ-500
-- SC-900
-- SC-300
-- SC-200
 - AZ-400
+- DP-700
+- DP-600
+- AI-102
+- Databricks Associate
+- Databricks Professional
+- AWS Cloud Practitioner
+- AWS Solution Architect Associate
+- AWS Solution Architect Professional
 
 ---
 
